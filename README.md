@@ -1,3 +1,3 @@
 # vast-ai-serverTools
 Server Tools
-python3 aerMonitor.py
+sudo python3 aerMonitor.py
